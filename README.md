@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Linkedin : https://www.linkedin.com/in/aalokyadav
 - ⚡ Fun fact: ... I have a photographic memory
 
-And ... here is my blog : aalokyadav96.github.io
+And ... here is my blog : https://aalokyadav96.github.io
