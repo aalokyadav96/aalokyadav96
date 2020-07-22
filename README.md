@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ... App Development
+- 🌱 I’m currently learning ... Computer Graphics and Game Development
+- 👯 I’m looking to collaborate on ... Fun stuff
+- 🤔 I’m looking for help with ... OS kernel development
+- 💬 Ask me about ... UI/UX Design, HTML5, CSS3, Operating Systems
+- 📫 How to reach me: ... Linkedin : https://www.linkedin.com/in/aalokyadav
+- ⚡ Fun fact: ... I have a photographic memory
+
+And ... here is my blog : aalokyadav96.github.io
