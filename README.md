@@ -1,25 +1,67 @@
-### Hi there 👋
+_**$5000 Bug bounty by Google**_
 
-<!--
-**aalokyadav96/aalokyadav96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_**Computer Science and Engineering**_
 
-Here are some ideas to get you started:
+----------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on ... App Development
-- 🌱 I’m currently learning ... Computer Graphics and Game Development
-- 👯 I’m looking to collaborate on ... Fun stuff
-- 🤔 I’m looking for help with ... OS kernel development
-- 💬 Ask me about ... UI/UX Design, HTML5, CSS3, Operating Systems
-- 📫 How to reach me: ... Linkedin : https://www.linkedin.com/in/aalokyadav
-- ⚡ Fun fact: ... I have a photographic memory
+#### Profiles interested in ::
 
-And ... here is my blog : https://aalokyadav96.github.io
+- UI / UX Designer <sup>5 Years experience</sup>
+- Software Engineer (C,C++,Python)
+
+#### Technology NOT interested in ::
+
+- Node.js, React.js<sup>huh</sup>, [Java, .NET, PHP, Wordpress](https://qr.ae/pGKOFd)
+
+------------------------
+
+### Web Development ::
+
+- HTML5 __ CSS3 __ Browser-APIs
+- JavaScript __ Vue.js<sup>relearning</sup>
+- Sinatra __ Flask __ Jekyll
+- SQLite3 __ Redis __ file-system
+
+### Design and Graphics ::
+
+- Gravit Designer
+- Blender
+- Sketch _ Figma __ Adobe XD
+- Krita _ Photoshop
+- LÖVE 2D __ SDL2 __ OpenGL<sup>to be relearned</sup>
+
+### PROGRAMMING ::
+- C __ C++
+- Python __ Lua __ Ruby<sup>relearning</sup>
+- GitHub __ CodeBlocks
+- Windows __ msys2 __ Linux
+- NASM __ QEMU
+- Nim __ Go __ Java
+
+### MACHINE LEARNING ::
+- Image Processing
+- Computer Vision
+- Natural Language Processing
+- Algebra __ Probability __ Statistics
+- Data Science __ Tableau
+
+Languages :::
+--------------
+- English
+- Hindi
+- Korean (RW)
+- Chinese <sup>Beginner</sup>
+
+*************************************
+
+PROFILES & PROJECTS ->:
+
+Dribbble  : https://dribbble.com/aalokyadav
+
+Behance  : https://www.behance.net/aalokyadav
+
+Codepen : https://codepen.io/aalokyadav
+
+AngelList : https://angel.co/aalokyadav
+
+Blog        : https://aalokyadav96.github.io
