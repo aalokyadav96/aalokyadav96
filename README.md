@@ -18,30 +18,27 @@ _**Computer Science and Engineering**_
 ### Web Development ::
 
 - HTML5 __ CSS3 __ Browser-APIs
-- JavaScript __ Vue.js<sup>relearning</sup>
-- Sinatra __ Flask __ Jekyll
+- JavaScript __ Vue.js<sup>will learn if needed</sup>
+- Flask (Python) __ Jekyll (Ruby)
 - SQLite3 __ Redis __ file-system
 
 ### Design and Graphics ::
 
-- Gravit Designer
-- Blender
-- Sketch _ Figma __ Adobe XD
-- Krita _ Photoshop
-- LÖVE 2D __ SDL2 __ OpenGL<sup>to be relearned</sup>
+- Gravit Designer __ Sketch _ Figma __ Adobe XD
+- Krita _ Photoshop __ Blender
+- LÖVE 2D __ OpenGL __ SDL2<sup>to be relearned</sup>
 
 ### PROGRAMMING ::
-- C __ C++
-- Python __ Lua __ Ruby<sup>relearning</sup>
+- Python __ Lua __ Ruby<sup>stale</sup>
+- C __ C++<sup>C with Namespaces</sup>
 - GitHub __ CodeBlocks
 - Windows __ msys2 __ Linux
 - NASM __ QEMU
-- Nim __ Go __ Java
 
 ### MACHINE LEARNING ::
 - Image Processing
-- Computer Vision
 - Natural Language Processing
+- Computer Vision
 - Algebra __ Probability __ Statistics
 - Data Science __ Tableau
 
@@ -49,7 +46,7 @@ Languages :::
 --------------
 - English
 - Hindi
-- Korean (RW)
+- Korean
 - Chinese <sup>Beginner</sup>
 
 *************************************
