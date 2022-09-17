@@ -6,8 +6,8 @@ _**Computer Science and Engineering**_
 
 #### Profiles interested in ::
 
-- UI / UX Designer <sup>5 Years experience</sup>
-- Software Engineer (C,C++,Python)
+- Software Engineer (Golang, Python, C, C++)
+- UI / UX Designer
 
 #### Technology NOT interested in ::
 
