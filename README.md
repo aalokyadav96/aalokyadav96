@@ -49,6 +49,13 @@ Languages :::
 - Korean
 - Chinese <sup>Beginner</sup>
 
+**Things I have been working on:::**
+- Teleportation
+- Conciousness transfer
+- Shape shifting sand
+- Artificial tissues and humans
+- Cross species genetics
+
 *************************************
 
 PROFILES & PROJECTS ->:
