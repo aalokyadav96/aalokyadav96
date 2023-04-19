@@ -4,41 +4,35 @@ _**Computer Science and Engineering**_
 
 ----------
 
-#### Profiles interested in ::
-
-- Software Engineer (Golang, Python, C, C++)
-- UI / UX Designer
-
 #### Technology NOT interested in ::
 
 - Node.js, React.js<sup>huh</sup>, [Java, .NET, PHP, Wordpress](https://qr.ae/pGKOFd)
 
 ------------------------
 
-### Web Development ::
-
-- HTML5 __ CSS3 __ Browser-APIs
-- JavaScript __ Vue.js<sup>will learn if needed</sup>
-- Flask (Python) __ Jekyll (Ruby)
-- SQLite3 __ Redis __ file-system
-
-### Design and Graphics ::
-
-- Gravit Designer __ Sketch _ Figma __ Adobe XD
-- Krita _ Photoshop __ Blender
-- LÖVE 2D __ OpenGL __ SDL2<sup>to be relearned</sup>
-
 ### PROGRAMMING ::
-- Python __ Lua __ Ruby<sup>stale</sup>
-- C __ C++<sup>C with Namespaces</sup>
-- GitHub __ CodeBlocks
-- Windows __ msys2 __ Linux
+- Golang __ Lua __ C
+- Python __ C++ __ D
+- Windows __ MSYS2 __ Linux
 - NASM __ QEMU
 
+### Web Development ::
+
+- HTML5 __ CSS3 __ JavaScript
+- Flask (Python) __ Jekyll (Ruby)
+- SQLite3 __ Redis __ MySQL
+- audio_video-streaming __ Browser-APIs
+
+### Design, Graphics and Games ::
+
+- Gravit Designer __ Tkinter
+- Krita __ Blender __ Inkscape
+- LÖVE 2D __ SDL2 __ Allegro5
+- OpenGL __ OpenCV __ GLFW
+
 ### MACHINE LEARNING ::
-- Image Processing
+- Image Processing and Computer Vision
 - Natural Language Processing
-- Computer Vision
 - Algebra __ Probability __ Statistics
 - Data Science __ Tableau
 
@@ -47,7 +41,6 @@ Languages :::
 - English
 - Hindi
 - Korean
-- Chinese <sup>Beginner</sup>
 
 **Things I have been working on:::**
 - Teleportation
