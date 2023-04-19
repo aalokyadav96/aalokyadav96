@@ -2,14 +2,6 @@ _**$5000 Bug bounty by Google**_
 
 _**Computer Science and Engineering**_
 
-----------
-
-#### Technology NOT interested in ::
-
-- Node.js, React.js<sup>huh</sup>, [Java, .NET, PHP, Wordpress](https://qr.ae/pGKOFd)
-
-------------------------
-
 ### PROGRAMMING ::
 - Golang __ Lua __ C
 - Python __ C++ __ D
@@ -17,14 +9,12 @@ _**Computer Science and Engineering**_
 - NASM __ QEMU
 
 ### Web Development ::
-
 - HTML5 __ CSS3 __ JavaScript
 - Flask (Python) __ Jekyll (Ruby)
 - SQLite3 __ Redis __ MySQL
 - audio_video-streaming __ Browser-APIs
 
 ### Design, Graphics and Games ::
-
 - Gravit Designer __ Tkinter
 - Krita __ Blender __ Inkscape
 - LÖVE 2D __ SDL2 __ Allegro5
@@ -36,11 +26,12 @@ _**Computer Science and Engineering**_
 - Algebra __ Probability __ Statistics
 - Data Science __ Tableau
 
-Languages :::
---------------
+### Languages ::
 - English
 - Hindi
 - Korean
+
+----------
 
 **Things I have been working on:::**
 - Teleportation
