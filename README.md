@@ -34,11 +34,8 @@ _**Computer Science and Engineering**_
 ----------
 
 **Things I have been working on:::**
-- Teleportation
-- Conciousness transfer
-- Shape shifting sand
-- Artificial tissues and humans
-- Cross species genetics
+- nothing
+- A lot of things
 
 *************************************
 
@@ -49,7 +46,5 @@ Dribbble  : https://dribbble.com/aalokyadav
 Behance  : https://www.behance.net/aalokyadav
 
 Codepen : https://codepen.io/aalokyadav
-
-AngelList : https://angel.co/aalokyadav
 
 Blog        : https://aalokyadav96.github.io
