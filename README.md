@@ -48,3 +48,10 @@ Behance  : https://www.behance.net/aalokyadav
 Codepen : https://codepen.io/aalokyadav
 
 Blog        : https://aalokyadav96.github.io
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
