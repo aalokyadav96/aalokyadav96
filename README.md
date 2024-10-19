@@ -3,28 +3,25 @@ _**$5000 Bug bounty by Google**_
 _**Computer Science and Engineering**_
 
 ### PROGRAMMING ::
-- Golang __ Lua __ C
-- Python __ C++ __ D
+- Golang __ Python __ ES6
+- Lua __ C __ C++
 - Windows __ MSYS2 __ Linux
-- NASM __ QEMU
 
 ### Web Development ::
 - HTML5 __ CSS3 __ JavaScript
+- Node.js __ React.js __ Svelte
+- Vite __ JWT __ CORS
 - Flask (Python) __ Jekyll (Ruby)
-- SQLite3 __ Redis __ MySQL
+- SQLite3 __ Redis __ MySQL __ MongoDB
 - audio_video-streaming __ Browser-APIs
 
 ### Design, Graphics and Games ::
 - Gravit Designer __ Tkinter
 - Krita __ Blender __ Inkscape
-- LÖVE 2D __ SDL2 __ Allegro5
-- OpenGL __ OpenCV __ GLFW
+- LÖVE 2D __ FFMPEG
 
 ### MACHINE LEARNING ::
 - Image Processing and Computer Vision
-- Natural Language Processing
-- Algebra __ Probability __ Statistics
-- Data Science __ Tableau
 
 ### Languages ::
 - English
@@ -34,8 +31,8 @@ _**Computer Science and Engineering**_
 ----------
 
 **Things I have been working on:::**
-- nothing
-- A lot of things
+- Events and Places website
+- A lot of imaginary things
 
 *************************************
 
